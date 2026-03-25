@@ -56,7 +56,7 @@ setup(
     include_package_data=True,
     install_requires=[
         "python-magic==0.4.15",
-        "requests[socks]==2.22.0",
+        "requests[socks]==2.33.0",
         "requests-cache==0.5.2",
         "scandir==1.10",
         "six==1.14.0",
